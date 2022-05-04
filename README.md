@@ -1,2 +1,2 @@
 # go_trials
-personal go experiments
+personal go-gin experiments
